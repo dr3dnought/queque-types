@@ -1,3 +1,3 @@
-module github.com/dr3dnought/queque-types
+module github.com/dr3dnought/quequetypes
 
-go 1.22.5
+go 1.23.0
